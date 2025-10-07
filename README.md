@@ -17,6 +17,7 @@
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?logo=eclipsemosquitto&logoColor=white)
 ![OPC UA](https://img.shields.io/badge/-OPC%20UA-006400?logo=opc-foundation&logoColor=white)
 ![Modbus](https://img.shields.io/badge/-Modbus-002C5F?logo=modbus&logoColor=white)
+![WinCC](https://img.shields.io/badge/-WinCC-009999?logo=siemens&logoColor=white)
 
 ### 📊 Databases & Visualization
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
