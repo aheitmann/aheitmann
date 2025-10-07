@@ -16,6 +16,7 @@
 ![Edge Computing](https://img.shields.io/badge/-Edge%20Computing-0061A8?logo=cloudflare&logoColor=white)
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?logo=eclipsemosquitto&logoColor=white)
 ![OPC UA](https://img.shields.io/badge/-OPC%20UA-006400?logo=opc-foundation&logoColor=white)
+![Modbus](https://img.shields.io/badge/-Modbus-002C5F?logo=modbus&logoColor=white)
 
 ### 📊 Databases & Visualization
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
